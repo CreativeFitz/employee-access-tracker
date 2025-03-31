@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeAccessTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8cc3a09ecf134dc48407f7075b02eb242394869")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2ac33a7d72210193c41a1df75cfa2528b1c7b64")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeAccessTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeAccessTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

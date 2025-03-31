@@ -1,0 +1,15 @@
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\bin\Debug\net8.0\EmployeeAccessTracker.exe
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\bin\Debug\net8.0\EmployeeAccessTracker.deps.json
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\bin\Debug\net8.0\EmployeeAccessTracker.runtimeconfig.json
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\bin\Debug\net8.0\EmployeeAccessTracker.dll
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\bin\Debug\net8.0\EmployeeAccessTracker.pdb
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.AssemblyInfoInputs.cache
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.AssemblyInfo.cs
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.csproj.CoreCompileInputs.cache
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.sourcelink.json
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.dll
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\refint\EmployeeAccessTracker.dll
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.pdb
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\EmployeeAccessTracker.genruntimeconfig.cache
+C:\Users\thecr\CodingPractice\C#\CsharpProjects\EmployeeAccessTracker\EmployeeAccessTracker\obj\Debug\net8.0\ref\EmployeeAccessTracker.dll
